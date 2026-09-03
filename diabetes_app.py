@@ -434,7 +434,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
 <h2>🩺 Diabetes Prediction</h2>
 
 <p>
-Developed by <b>Shahjad Alam</b><br>
+Developed by <b>Munna sah</b><br>
 Python • Streamlit • Scikit-Learn • Logistic Regression
 </p>
 
